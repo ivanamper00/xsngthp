@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Xổ số Đồng Tháp</string>
+    <string name="menu">Chính</string>
+    <string name="home">Nhà</string>
+    <string name="about">Về</string>
+    <string name="tips">Lời khuyên</string>
+    <string name="history">Lịch sử</string>
+</resources>
